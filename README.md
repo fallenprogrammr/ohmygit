@@ -1,8 +1,9 @@
 # ohmygit
-Git r done 
-git happens 
-      /\___/\ 
-     |       | 
-    _  *   *  _ 
-    -   /_\   - 
-        --- 
+Git r done  
+git happens  
+      /\___/\  
+     |       |  
+    _  *   *  _  
+    -   /_\   -  
+        ---  
+		
